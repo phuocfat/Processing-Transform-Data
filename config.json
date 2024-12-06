@@ -1,0 +1,182 @@
+{
+  "APP_TRANSFORM": {
+    "VERSION": "0.1",
+    "Attributes": {},
+    "PVCFC": {
+      "URI_PVCFC": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFC",
+      "NAMES_COLUMNS": [
+        "NỘI DUNG",
+        "ĐƠN VỊ",
+        "NGÀY",
+        "THÁNG",
+        "NĂM",
+        "GHI CHÚ",
+        "GHI CHÚ_",
+        "CÔNG SUẤT THỰC TẾ (theo tích lũy năm)"
+      ],
+      "LEN_CATALOG": 4
+    },
+    "PVGAS": {
+      "URI_PVGAS": "E:\\OneDrive-BI_Sync\\OneDrive\\PVGas",
+      "NAMES_COLUMNS": [
+        "NỘI DUNG",
+        "ĐƠN VỊ",
+        "SỐ LIỆU NGÀY",
+        "TÍCH LŨY NĂM",
+        "ẤN ĐỊNH",
+        "THỰC NHẬN",
+        "KẾ HOẠCH THÁNG",
+        "KẾ HOẠCH NĂM",
+        "GHI CHÚ"
+      ],
+      "LEN_CATALOG": 3
+    },
+    "ĐPM": {
+      "URI_ĐPM": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFCCo",
+      "SHEET_1": {
+        "SHEET_NAME": "TÌNH HÌNH SẢN XUẤT",
+        "NAMES_COLUMNS": [
+          "NỘI DUNG",
+          "ĐƠN VỊ",
+          "SỐ LƯỢNG NGÀY",
+          "SỐ LƯỢNG THÁNG",
+          "SỐ LƯỢNG NĂM",
+          "GHI CHÚ"
+        ],
+        "TO_SAVE": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFCCo\\Output\\TINH HINH SAN XUAT",
+        "LEN_CATALOG": 4
+      },
+      "SHEET_2": {
+        "SHEET_NAME": "KHO SẢN PHẨM",
+        "NAMES_COLUMNS": [
+          "NỘI DUNG",
+          "ĐƠN VỊ",
+          "TỒN ĐẦU KỲ",
+          "NHẬP",
+          "XUẤT",
+          "ĐỔI TRẢ NHẬP",
+          "ĐỔI TRẢ XUẤT",
+          "TỒN CUỐI KỲ",
+          "TỒN ĐẦU KỲ (THÁNG)",
+          "NHẬP (THÁNG)",
+          "XUẤT (THÁNG)",
+          "ĐỔI TRẢ NHẬP (THÁNG)",
+          "ĐỔI TRẢ XUẤT (THÁNG)",
+          "TỒN CUỐI KỲ (THÁNG)",
+          "TỒN ĐẦU KỲ (NĂM)",
+          "NHẬP (NĂM)",
+          "XUẤT (NĂM)",
+          "ĐỔI TRẢ NHẬP (NĂM)",
+          "ĐỔI TRẢ XUẤT (NĂM)",
+          "TỒN CUỐI KỲ (NĂM)",
+          "GHI CHÚ/THUYẾT MINH"
+        ],
+        "TO_SAVE": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFCCo\\Output\\KHO SAN PHAM",
+        "LEN_CATALOG": 3
+      }
+    },
+    "PVCFCCO_DEV": {
+      "URI_ĐPM": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFCCO_DEV",
+      "SHEET_1": {
+        "SHEET_NAME": "TÌNH HÌNH SẢN XUẤT",
+        "NAMES_COLUMNS": [
+          "NỘI DUNG",
+          "ĐƠN VỊ",
+          "SỐ LƯỢNG NGÀY",
+          "SỐ LƯỢNG THÁNG",
+          "SỐ LƯỢNG NĂM",
+          "GHI CHÚ"
+        ],
+        "TO_SAVE": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFCCO_DEV\\Output\\TINH HINH SAN XUAT",
+        "LEN_CATALOG": 4
+      },
+      "SHEET_2": {
+        "SHEET_NAME": "KHO SẢN PHẨM",
+        "NAMES_COLUMNS": [
+          "NỘI DUNG",
+          "ĐƠN VỊ",
+          "TỒN ĐẦU KỲ",
+          "NHẬP",
+          "XUẤT",
+          "ĐỔI TRẢ NHẬP",
+          "ĐỔI TRẢ XUẤT",
+          "TỒN CUỐI KỲ",
+          "TỒN ĐẦU KỲ (THÁNG)",
+          "NHẬP (THÁNG)",
+          "XUẤT (THÁNG)",
+          "ĐỔI TRẢ NHẬP (THÁNG)",
+          "ĐỔI TRẢ XUẤT (THÁNG)",
+          "TỒN CUỐI KỲ (THÁNG)",
+          "TỒN ĐẦU KỲ (NĂM)",
+          "NHẬP (NĂM)",
+          "XUẤT (NĂM)",
+          "ĐỔI TRẢ NHẬP (NĂM)",
+          "ĐỔI TRẢ XUẤT (NĂM)",
+          "TỒN CUỐI KỲ (NĂM)",
+          "GHI CHÚ/THUYẾT MINH"
+        ],
+        "TO_SAVE": "E:\\OneDrive-BI_Sync\\OneDrive\\PVCFCCO_DEV\\Output\\KHO SAN PHAM",
+        "LEN_CATALOG": 3
+      }
+    },
+    "BSR": {
+      "URI_BSR": "E:\\OneDrive-BI_Sync\\OneDrive\\BSR",
+      "NAMES_COLUMNS": [
+        "NỘI DUNG",
+        "ĐƠN VỊ",
+        "KHỐI LƯỢNG NGÀY",
+        "LŨY TIẾN THÁNG",
+        "LŨY TIẾN NĂM",
+        "TỶ LỆ LƯU KHO",
+        "CÔNG SUẤT",
+        "GHI CHÚ/MÔ TẢ",
+        "KẾ HOẠCH NGÀY",
+        "KẾ HOẠCH THÁNG",
+        "KẾ HOẠCH NĂM"
+      ],
+      "TO_SAVE": "E:\\OneDrive-BI_Sync\\OneDrive\\BSR\\Ouput",
+      "LEN_CATALOG": 3
+    }
+  },
+  "APP_TRANSFORM_INVENTORY": {
+    "VERSION": "0.1",
+    "BSR": {
+      "URI_BSR": "E:\\OneDrive-BI_Sync\\OneDrive\\Inventory\\BSR",
+      "NAMES_COLUMNS": [
+        "NỘI DUNG",
+        "ĐƠN VỊ",
+        "Sức chứa TK",
+        "Sức chứa khả dụng",
+        "Tồn kho ngày",
+        "Còn trống",
+        "GHI CHÚ/MÔ TẢ"
+      ],
+      "LEN_CATALOG": 2
+    },
+    "PVCFCCO": {
+      "URI_PVCFCCO": "E:\\OneDrive-BI_Sync\\OneDrive\\Inventory\\PVCFCCO",
+      "NAMES_COLUMNS": [
+        "NỘI DUNG",
+        "ĐƠN VỊ",
+        "Kho đơn vị",
+        "Kho thuê ngoài",
+        "Tổng",
+        "GHI CHÚ/MÔ TẢ"
+      ],
+      "LEN_CATALOG": 2
+    },
+    "PVOIL": {
+      "URI_PVOIL": "E:\\OneDrive-BI_Sync\\OneDrive\\Inventory\\PVOIL",
+      "NAMES_COLUMNS": [
+        "NỘI DUNG",
+        "ĐƠN VỊ",
+        "Sức chứa TK",
+        "Sức chứa khả dụng",
+        "Tồn kho ngày",
+        "Còn trống",
+        "GHI CHÚ/MÔ TẢ"
+      ],
+      "LEN_CATALOG": 2
+    }
+  }
+}

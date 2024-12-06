@@ -1,0 +1,20 @@
+{
+    "APP_TRANSFORM": {
+        "VERSION": "0.1",
+        "Attributes": {},
+        "PVCFC": {
+            "URI_PVCFC": "E:\\OneDrive-BI_Sync\\OneDrive\\Test_ZPP03D",
+            "NAMES_COLUMNS": [
+                "NỘI DUNG",
+                "ĐƠN VỊ",
+                "NGÀY",
+                "THÁNG",
+                "NĂM",
+                "GHI CHÚ",
+                "GHI CHÚ_",
+                "CÔNG SUẤT THỰC TẾ (theo tích lũy năm)"
+            ],
+            "LEN_CATALOG": 4
+        }
+    }
+}
